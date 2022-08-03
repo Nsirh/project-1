@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.head {
+  background-color: silver;
+  text-align: center;
+
+}
+
+li {
+  display: inline-block;
+  padding: 25px 0;
+  margin-left: 40px;
+  color: black
+}
+
+li:hover {
+  color: #958f90
+}
+
+.main {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 50px;
+  color: red
+}
